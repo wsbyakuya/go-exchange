@@ -1,0 +1,14 @@
+*.exe
+*.exe~
+*.test
+*.log
+*.log.*
+
+.DS_Store
+*.swp
+*.swo
+
+vendor/
+.idea/
+.DS_Store
+go.sum
